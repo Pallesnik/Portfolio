@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1518787991 source:c:\users\peter\desktop\game_library\developer.cpp
+	"Developer.h"
+
+1518787991 c:\users\peter\desktop\game_library\developer.h
+	<string>
+	<iostream>
+	<vector>
+
+1518788287 source:c:\users\peter\desktop\game_library\main.cpp
+	"Game.h"
+	"IndieDev.h"
+	"Corporation.h"
+	<iostream>
+
+1518189044 source:c:\users\peter\desktop\game_library\game.cpp
+	"Game.h"
+
+1518188983 c:\users\peter\desktop\game_library\game.h
+	"Developer.h"
+	<iostream>
+	<string>
+	<vector>
+
+1518189051 source:c:\users\peter\desktop\game_library\library.cpp
+	"Library.h"
+
+1518188983 c:\users\peter\desktop\game_library\library.h
+	"Game.h"
+
+1518788135 source:c:\users\peter\desktop\game_library\corporation.cpp
+	"Corporation.h"
+
+1518788135 c:\users\peter\desktop\game_library\corporation.h
+	"Developer.h"
+
+1518788214 source:c:\users\peter\desktop\game_library\indiedev.cpp
+	"IndieDev.h"
+
+1518788019 c:\users\peter\desktop\game_library\indiedev.h
+	"Developer.h"
+

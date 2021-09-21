@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1518186079 source:c:\users\peter\desktop\software\artist.cpp
+	"Artist.h"
+
+1518186079 c:\users\peter\desktop\software\artist.h
+	<string>
+	<iostream>
+	<vector>
+
+1518185828 source:c:\users\peter\desktop\software\main.cpp
+	"Song.h"
+	<iostream>
+
+1518186079 c:\users\peter\desktop\software\song.h
+	"Artist.h"
+	<iostream>
+	<string>
+	<vector>
+
+1518186079 source:c:\users\peter\desktop\software\playlist.cpp
+	"Playlist.h"
+
+1518186079 c:\users\peter\desktop\software\playlist.h
+	"Song.h"
+
+1518185614 source:c:\users\peter\desktop\software\soloartist.cpp
+
+1518186079 source:c:\users\peter\desktop\software\song.cpp
+	"Song.h"
+
+1518186079 source:c:\users\peter\desktop\software\band.cpp
+	"Band.h"
+
+1518186079 c:\users\peter\desktop\software\band.h
+	"Artist.h"
+
